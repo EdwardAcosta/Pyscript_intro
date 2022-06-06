@@ -6,7 +6,7 @@ from utils import add_class
 output_el = Element('output').element
 
 arr = np.array([22,58,87,34,5])
-
+# edited out for now
 #pyscript.write('output',F"{arr}")
 output_el.innerHTML = f"{arr}"
 
