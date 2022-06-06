@@ -19,3 +19,4 @@ def shuffle_array(*args):
     #pyscript.write('output', shuffled)
     
     output_el.innerHTML = shuffled
+    
